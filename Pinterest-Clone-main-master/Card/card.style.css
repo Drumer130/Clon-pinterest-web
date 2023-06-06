@@ -1,0 +1,22 @@
+.contenido-img{
+    margin-top: 75px;
+}
+
+ .grid-container {
+    margin: 0 auto;
+  }
+
+  .grid-item {
+    width: auto;
+    margin-bottom: 40px;
+    border-radius: 15px;
+    cursor: zoom-in;
+    background-color: lightgray;
+    height: auto;
+  }
+  
+  .grid-item:hover {
+    filter: opacity(0.9);
+  }
+
+ 
